@@ -20,7 +20,7 @@ background-color :red;
 background-image: url("./img/the-batman-2022-teaser-poster-batman-01-promo.webp");
 background-repeat: no-repeat;
 /* propriedade faz a imagem ficar do tamanho totalda caixa (div) */
-/* background-size: cover; */
+background-size: cover; 
 /*1 posicionamento horizontal 2 valor vertical*/
 /* background-position: 50% 0%; */
 
